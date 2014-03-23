@@ -49,8 +49,8 @@
 		// First Post Padding
 
 		$('.post-title').each(function(){
-			$(this).css('font-size',  specialFloor($('.content').width()*0.12/10)+'rem');
-			$(this).css('line-height',specialFloor($('.content').width()*0.12/10)+'rem');
+			$(this).css('font-size',  specialFloor($('.content').width()*0.12/20)+'rem');
+			$(this).css('line-height',specialFloor($('.content').width()*0.12/20)+'rem');
 		});
 
 		// Menu Title font size
