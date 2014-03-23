@@ -53,15 +53,13 @@
         {{#post}}
             <div class="written-by">written by</div>
             <h4 class="menu-title about-the-author">{{author.name}}</h4>
-            <div class="menu-author-image" style="background-image: url('{{author.image}}')"></div>
-            <div class="menu-author-bio">
-                {{author.bio}}
-                <br/><br/>
-                –
-                <br/>
-                <a class="menu-author-web" href="{{author.website}}">{{author.website}}</a>
 
-            </div>
+
+
+
+           
+
+
         {{/post}}
         <h4 class="menu-title table-of-contents">Table of Contents</h4>
         <ul class="clearfix">    
@@ -74,6 +72,18 @@
             </li>
             {{/foreach}}
         </ul>
+         <!-- Begin MailChimp Signup Form -->
+            <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+            <div id="mc_embed_signup" style='margin-top:50Px;'>
+                <form action="http://schematical.us6.list-manage1.com/subscribe/post?u=3565b8df39d26f84645b27784&amp;id=3385cf3f31" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <label for="mce-EMAIL">Subscribe to our mailing list</label>
+                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_3565b8df39d26f84645b27784_3385cf3f31" value=""></div>
+                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </form>
+            </div>
+            <!--End mc_embed_signup-->
     </div>
 
     {{! The fixed featured header on the homepage }}
