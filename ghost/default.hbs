@@ -24,6 +24,15 @@
 
     {{! Ghost outputs important style and meta data with this tag }}
     {{ghost_head}}
+
+    <style>
+        .header-right a{
+            color: #aaaaaa;
+            font-size: 26px;
+            margin-left:20Px;
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body class="{{body_class}}">
 
@@ -86,13 +95,32 @@
                     Menu
                 </div>
 
-                <a href='/purchase-your-copy' style='color: #aaaaaa; font-size: 26px; margin-left:20Px; text-decoration: none;'>
+                <a href='/purchase-your-copy' >
                     <i class="fa fa-book" ></i>
                     <span style='font-size:14Pt'>
                         The Book
                     </span>
                 </a>
+
+
+                <div style='float:right;'>
+                     <a class="fa  fa-envelope" href=" http://eepurl.com/taA75">
+                        <span class="hidden">Emails</span>
+                    </a>
+                     <a class="fa fa-twitter" href="https://twitter.com/mleaconsulting">
+                        <span class="hidden">Twitter</span>
+                    </a>
+                    <a class="fa fa-facebook" href="https://www.facebook.com/mattleaconsulting">
+                        <span class="hidden">Facebook</span>
+                    </a>
+                    <a class="fa fa-github" href="https://github.com/schematical">
+                        <span class="hidden">Github</span>
+                    </a>
+                </div>
+
+
             </div>
+
         </div>
     </header>
 
