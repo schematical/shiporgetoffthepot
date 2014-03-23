@@ -23,14 +23,14 @@
                 <section class="post-content">
                     {{content}}
                     <p class="post-end clearfix">
-                        <br/><span class="post-end-date">{{date}}</span>
+                        <br/><span class="post-end-date"></span>
                         <span class="post-end-author"><a href="{{author.website}}">{{author.name}}</a></span>
                     </p>
                 </section>
 
                 <footer class="post-footer clearfix">
                     <div class="post-footer-share-title">Share this on:</div>
-                    <p class="post-footer-share"><a class="fa fa-twitter" href="http://twitter.com/share?text={{title}}&url={{url absolute="true"}}"
+                        <p class="post-footer-share"><a class="fa fa-twitter" href="http://twitter.com/share?text={{title}}&url={{url absolute="true"}}"
                             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                             <span class="hidden">Twitter</span>
                         </a>
@@ -42,6 +42,25 @@
                            onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                             <span class="hidden">Google+</span>
                         </a>
+                    </p>
+                    <div class="post-footer-share-title">Subscribe:</div>
+                    <p>
+                        <p class="post-footer-share">
+                            <a class="fa  fa-envelope" href=" http://eepurl.com/taA75">
+                                <span class="hidden">Emails</span>
+                            </a>
+                             
+                             <a class="fa fa-twitter" href="https://twitter.com/mleaconsulting">
+                                <span class="hidden">Twitter</span>
+                            </a>
+                            <a class="fa fa-facebook" href="https://www.facebook.com/mattleaconsulting">
+                                <span class="hidden">Facebook</span>
+                            </a>
+                            <a class="fa fa-github" href="https://github.com/schematical">
+                                <span class="hidden">Github</span>
+                            </a>
+
+                        </p>
                     </p>
                     {{#if tags}}<p class="tags">Tags: {{tags}}</p>{{/if}}
                 </footer>
