@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{! Document Settings }}
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    {{! Page Meta }}
+    <title>{{meta_title}}</title>
+    <meta name="description" content="{{meta_description}}" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.77, user-scalable=no" />
+
+    {{! Styles'n'Scripts }}
+    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
+    <link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
+
+    {{! Fonts }}
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>    
+
+    {{! Ghost outputs important style and meta data with this tag }}
+    {{ghost_head}}
+</head>
+<body class="{{body_class}}">
+
+    {{#if @blog.cover}}
+    <div style="overflow:hidden; left:10px; height:0; width:0;">
+        <img crossorigin="anonymous" id="site-bg-image" alt="background" src="{{@blog.cover}}">
+    </div>
+    <div id="ccontainer" data-bg="{{#if @blog.cover}}{{@blog.cover}}{{/if}}">
+        <div id="cholder">
+            <canvas id="canvas"></canvas>
+        </div>
+        <div id="choverbg"></div>
+    </div>
+    {{/if}}
+
+    {{! Menu Navigation }}
+    <div class="menu"> 
+        {{#post}}
+            <div class="written-by">written by</div>
+            <h4 class="menu-title about-the-author">{{author.name}}</h4>
+            <div class="menu-author-image" style="background-image: url('{{author.image}}')"></div>
+            <div class="menu-author-bio">
+                {{author.bio}}
+                <br/><br/>
+                –
+                <br/>
+                <a class="menu-author-web" href="{{author.website}}">{{author.website}}</a>
+                <!-- UNCOMMENT THIS IF YOU WANT TO SHOW YOUR E-MAIL AS WELL
+                    <br/>
+                    <a class="menu-author-mail" href="mailto:{{!author.email}}">{{!author.email}}</a>
+                -->
+            </div>
+        {{/post}}
+        <h4 class="menu-title table-of-contents">Table of Contents</h4>
+        <ul class="clearfix">    
+            {{#foreach posts}}
+            <li>
+                <h3>
+                    <a href="{{url}}">{{{title}}}</a>
+                </h3>
+                <div class="post-meta-date">{{{date}}}</div>
+            </li>
+            {{/foreach}}
+        </ul>
+    </div>
+
+    {{! The fixed featured header on the homepage }}
+    <header id="site-head">
+        <div class="header-left">
+            <div class="vertical">
+               {{#if @blog.logo}}
+                <a id="blog-logo" href="{{@blog.url}}">
+                    <img src="{{@blog.logo}}" alt="Blog Logo" />
+                </a>
+               {{/if}}
+            </div>
+            <div class="vertical">
+
+                <div class="music-toggle" data-mp3="/assets/audio/rain.mp3" data-ogg="/assets/audio/rain.ogg">
+                  <ul class="bars clearfix">
+                    <li class="bar1"></li>
+                    <li class="bar2"></li>
+                    <li class="bar3"></li>
+                    <li class="bar4"></li>
+                    <li class="hidden"></li>
+                  </ul>
+                </div>
+
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="vertical">
+                <div class="menu_button">
+                    <i class="fa fa-align-justify"></i>
+                </div>
+            </div>
+            <div class="vertical">
+            </div>
+        </div>
+    </header>
+
+    {{#if @blog.logo}}
+        <a id="mobile-logo" href="{{@blog.url}}">
+            <img src="{{@blog.logo}}" alt="Blog Logo" />
+        </a>
+   {{/if}}
+
+    {{! Everything else gets inserted here }}
+    {{{body}}}
+    <div class="clear"></div>
+    <div class="jqres"></div>
+    {{! Ghost outputs important scripts and data with this tag }}
+    {{ghost_foot}}
+
+    {{! The main JavaScript file for RAIN }}
+    <!-- 
+    --> 
+    <script type="text/javascript" src="/assets/js/rainyday.js"></script>
+    <script type="text/javascript" src="/assets/js/init_rainyday.js"></script>
+    <!-- -->
+
+    <!-- 
+    --> 
+    <script type="text/javascript" src="/assets/js/init_music.js"></script>
+    <!-- -->
+    <script type="text/javascript" src="/assets/js/index.js"></script>
+
+</body>
+</html>

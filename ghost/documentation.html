@@ -1,0 +1,59 @@
+<h1>RAIN - GHOST THEME - DOCUMENTATION</h1>
+
+<h4>1) Ghost platform Installation</h4>
+
+Read the official documentation containing Installation Guide here: <a href="http://docs.ghost.org/installation/">http://docs.ghost.org/installation/</a>
+<br/>
+<strong>TIP:</strong> It is often needed to restart your ghost server to refresh things like switching a theme, changing theme's source code, etc. (as of ghost-0.3.3)
+
+<h4>2) Upload the theme folder</h4>
+
+Upload the "g-rain" theme folder to /ghost/content/themes/
+
+<h4>3) Activate the RAIN theme</h4>
+
+Open the admin section, usually located at http://mysite.com/ghost and change the active theme in "Settings -> General -> Theme -> g-rain".
+
+<h4>4) Customizations needed for a nice look - used by the RAIN theme</h4>
+
+Open the GHOST admin backend (see step 3 above) and customize:
+
+<ul>
+	<li>General -> Blog Title</li>
+	<li>General -> Blog Description</li>
+	<li>General -> Blog Logo (demo logo can be copied from /assets/images/logo.png+psd)</li>
+	<li>General -> Blog Cover (this image is used to make the RAIN background)</li>
+	<li>General -> Posts per Page</li>
+	<li>User -> Name</li>
+	<li>User -> Profile Picture</li>
+	<li>User -> Website</li>
+	<li>User -> Bio</li>
+</ul>
+
+<h1>FAQ</h1>
+
+<h4>Where is the audio/sound file located?</h4>
+
+<ul>
+	<li>/assets/audio/rain.mp3</li>
+	<li>/assets/audio/rain.ogg</li>
+</ul>
+
+We recommend that you use both mp3 and ogg files because there are browsers that only support one of these formats.
+
+<h4>How do I disable the audio/sound?</h4>
+
+Open default.hbs and delete the includes for these 2 files:
+
+<ul>
+	<li>... src="/assets/js/rainyday.js"...</li>
+	<li>... src="/assets/js/init_rainyday.js"...</li>
+</ul>
+
+<h4>How do I make the raining blur/animation stop and instead show a classic static background?</h4>
+
+Open default.hbs and delete the include for this file:
+
+<ul>
+	<li>... src="/assets/js/init_music.js"...</li>
+</ul>
