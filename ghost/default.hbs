@@ -37,7 +37,7 @@
 <body class="{{body_class}}">
 
     {{#if @blog.cover}}
-    <div style="overflow:hidden; left:10px; height:0; width:0;">
+    <div style="position:fixed; top:0Px; left:0px; height:0; width:0;">
         <img crossorigin="anonymous" id="site-bg-image" alt="background" src="{{@blog.cover}}">
     </div>
     <div id="ccontainer" data-bg="{{#if @blog.cover}}{{@blog.cover}}{{/if}}">

@@ -24,11 +24,14 @@
 
 		var fraction_result = ( fraction_height > fraction_width ) ? fraction_height : fraction_width;
 
-		$('canvas').css('height', Math.ceil( fraction_result * img_height ) + 'px' );
+         $('#site-bg-image').css('height', Math.ceil( fraction_result * img_height ) + 'px' );
+         $('#site-bg-image').css('width', Math.ceil( fraction_result * img_width ) + 'px' )
+
+		/*$('canvas').css('height', Math.ceil( fraction_result * img_height ) + 'px' );
 		$('canvas').css('width', Math.ceil( fraction_result * img_width ) + 'px' );
 
 		$('canvas').css('top', Math.floor( (win_height - fraction_result * img_height) / 2 ) + 'px' );
-		$('canvas').css('left', Math.floor( (win_width - fraction_result * img_width) / 2 ) + 'px' );
+		$('canvas').css('left', Math.floor( (win_width - fraction_result * img_width) / 2 ) + 'px' );*/
 	});
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
