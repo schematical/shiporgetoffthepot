@@ -63,7 +63,7 @@
 	}
 
 	$(window).load(function(){
-		init_RainyDay();
+		//init_RainyDay();
 	});
 
 	// Pagination replace text with icons
