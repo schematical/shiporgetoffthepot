@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c907ebeb-056e-4420-a168-f20a0a60564f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-config-sample.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ghost/default.hbs" afterPath="$PROJECT_DIR$/ghost/default.hbs" />
+    </list>
+    <ignored path="shiporgetoffthepot.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395836435436" ignored="false" />
+    <file path="/a.dummy" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395100589646" ignored="false" />
+    <file path="$PROJECT_DIR$/../body_comp_journal/mobile/platforms/android/project.properties" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395100628986" ignored="false" />
+    <file path="$PROJECT_DIR$/../body_comp_journal/mobile/platforms/android/ant-build/build.prop" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395102859455" ignored="false" />
+    <file path="$PROJECT_DIR$/../body_comp_journal/mobile/platforms/android/ant.properties" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395103386689" ignored="false" />
+    <file path="$PROJECT_DIR$/../body_comp_journal/mobile/platforms/android/bin/AndroidManifest.xml" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395101613849" ignored="false" />
+    <file path="$PROJECT_DIR$/../body_comp_journal/mobile/platforms/android/ant-build/build.properties" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395103375839" ignored="false" />
+    <file path="$PROJECT_DIR$/../body_comp_journal/mobile/config.xml" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395102512739" ignored="false" />
+    <file path="/config.xml" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395101867676" ignored="false" />
+    <file path="/build.prop" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395102856277" ignored="false" />
+    <file path="$PROJECT_DIR$/../NProxy/bin/apache_fallback.sh" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395146464128" ignored="false" />
+    <file path="/apache_fallback.sh" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395146464128" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/package.json" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395170884709" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/app.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395153217463" ignored="false" />
+    <file path="/app.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395152910942" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/_header.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395163758792" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/css/old.css" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395155557277" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/_home_nav.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164692993" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/_main_nav.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164588159" ignored="false" />
+    <file path="/_main_nav.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395161402743" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/_footer.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395161089188" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/home.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395168414775" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/_project_commit.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164665983" ignored="false" />
+    <file path="/_project_commit.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164654513" ignored="false" />
+    <file path="/_header.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395163758792" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/search/_search_tool.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395162374717" ignored="false" />
+    <file path="/_search_tool.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395161561135" ignored="false" />
+    <file path="/_home_nav.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164692993" ignored="false" />
+    <file path="/home.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395161828587" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/_test/test.html" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395163338383" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/project_list.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164235046" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/_project_edit_tool.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395169331327" ignored="false" />
+    <file path="/_project_edit_tool.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164119538" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/_project_list_single.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166521440" ignored="false" />
+    <file path="/project_list.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164234539" ignored="false" />
+    <file path="/_project_list_single.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164541841" ignored="false" />
+    <file path="/project.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164441403" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/lib/model/project.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164441931" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/_project_nav.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395164756110" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/project_detail.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395168058100" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/document/document_list.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395167818714" ignored="false" />
+    <file path="/document_list.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395167815322" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/document/_document_list.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166507289" ignored="false" />
+    <file path="/_document_list.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166503917" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/lib/view/index.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166338749" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates.bkup/document/_document_list_single.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166651116" ignored="false" />
+    <file path="/_document_list_single.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166735804" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/document/_document_list_single.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395166735804" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/document/document_detail.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395167148468" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/document/_document_nav.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395167694587" ignored="false" />
+    <file path="/document_detail.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395167148468" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/document/_document_edit_tool.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395168166077" ignored="false" />
+    <file path="/_document_edit_tool.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395167962501" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/account/account_settings.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395168651976" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/project/project_revision_detail.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395168882017" ignored="false" />
+    <file path="/project_revision_detail.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395168848731" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/public/templates/index.hjs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395169096158" ignored="false" />
+    <file path="/package.json" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395170848754" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/routes/model/document_raw.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395174873825" ignored="false" />
+    <file path="/document_raw.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395174853711" ignored="false" />
+    <file path="$PROJECT_DIR$/../planvault_email_app/lib/index.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395175840007" ignored="false" />
+    <file path="$PROJECT_DIR$/../planvault_email_app/routes/webhooks.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395175840007" ignored="false" />
+    <file path="$PROJECT_DIR$/../planvault_email_app/routes/special/role.create.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395175840007" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/routes/model/document_batch.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395176495076" ignored="false" />
+    <file path="/document_batch.js" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395176490070" ignored="false" />
+    <file path="/index.hbs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395606023537" ignored="false" />
+    <file path="/post.hbs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395617965443" ignored="false" />
+    <file path="/default.hbs" changelist="c907ebeb-056e-4420-a168-f20a0a60564f" time="1395618235324" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="shiporgetoffthepot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ghost/assets/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="79" selection-start="1477" selection-end="1477" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.hbs" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ghost/default.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="149" column="3" selection-start="5686" selection-end="5686" vertical-scroll-proportion="0.25222024">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ghost/assets/js/index.js" />
+        <option value="$PROJECT_DIR$/ghost/index.hbs" />
+        <option value="$PROJECT_DIR$/ghost/post.hbs" />
+        <option value="$PROJECT_DIR$/ghost/default.hbs" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1302" />
+    <option name="y" value="764" />
+    <option name="width" value="1303" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiporgetoffthepot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vpr2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="0006cbc4-674f-49eb-8284-1b7b8ecf3251">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="6f5de561-2676-4941-bded-f836a4168cf5">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="8725b5e3-6742-4936-840a-00da39f9a4d3">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="96385dab-723c-4634-b536-03b1258ac43e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="c1204382-768c-4a07-abb0-de17d5c20f0e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c907ebeb-056e-4420-a168-f20a0a60564f" name="Default" comment="" />
+      <created>1395097861941</created>
+      <updated>1395097861941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1302" y="764" width="1303" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ghost/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="79" selection-start="1477" selection-end="1477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost/assets/js/init_music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.1198003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="79" selection-start="1477" selection-end="1477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="37" selection-start="832" selection-end="832" vertical-scroll-proportion="-14.4" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost/post.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="29" selection-start="4568" selection-end="4568" vertical-scroll-proportion="-42.32" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost/default.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="3" selection-start="5686" selection-end="5686" vertical-scroll-proportion="0.25222024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
