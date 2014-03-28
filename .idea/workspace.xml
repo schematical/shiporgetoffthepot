@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c907ebeb-056e-4420-a168-f20a0a60564f" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-config-sample.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ghost/default.hbs" afterPath="$PROJECT_DIR$/ghost/default.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ghost/post.hbs" afterPath="$PROJECT_DIR$/ghost/post.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shiporgetoffthepot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,7 +105,7 @@
       <file leaf-file-name="default.hbs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ghost/default.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="16" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.45378152">
+            <state line="83" column="16" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.20168068">
               <folding />
             </state>
           </provider>
@@ -513,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ghost/default.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="16" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.45378152">
+        <state line="83" column="16" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.20168068">
           <folding />
         </state>
       </provider>
