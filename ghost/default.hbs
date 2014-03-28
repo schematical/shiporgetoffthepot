@@ -49,11 +49,19 @@
     {{/if}}
 
     {{! Menu Navigation }}
-    <div class="menu"> 
+    <div class="menu active">
         {{#post}}
-            <div class="written-by">written by</div>
-            <h4 class="menu-title about-the-author">{{author.name}}</h4>
-
+              <h4 class="menu-title table-of-contents">Popular Posts:</h4>
+              <ul class="clearfix">
+                  <li>
+                        <h3>
+                            <a href="/yes-i-am-a-hacker-but-what-does-that-mean/">
+                                I am sick of the media saying "Hacker" when they mean "Black Hat"
+                            </a>
+                        </h3>
+                        <div class="post-meta-date"></div>
+                  </li>
+              </ul>
 
 
 
@@ -61,6 +69,7 @@
 
 
         {{/post}}
+        {{^post}}
         <h4 class="menu-title table-of-contents">Table of Contents</h4>
         <ul class="clearfix">    
             {{#foreach posts}}
@@ -72,6 +81,7 @@
             </li>
             {{/foreach}}
         </ul>
+        {{/post}}
          <!-- Begin MailChimp Signup Form -->
             <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
             <div id="mc_embed_signup" style='margin-top:50Px;'>
@@ -87,24 +97,35 @@
     </div>
 
     {{! The fixed featured header on the homepage }}
-    <header id="site-head">
+    <header id="site-head" style='background-color: rgba(0, 0, 0, 0.8);'>
         <div class="header-left">
             <div class="vertical">
-                <h1 style='color:white; margin-top: 5Px;'>
-                    {{@blog.title}}
-                </h1>
-                <h5 style='margin-top:-24Px; margin-left:40Px; margin-bottom:0Px'>
-                    {{@blog.description}}
-                </h5>
+                <a style=' text-decoration: none;' href='/?ref={{#post }}{{ url }}{{/post}}{{^post}}home{{/post}}'>
+                    <h1 style='color:white; margin-top: 5Px;'>
+                        {{@blog.title}}
+                    </h1>
+                    <h5 style='margin-top:-24Px; margin-left:40Px; margin-bottom:0Px'>
+                        {{@blog.description}}
+                    </h5>
+                </a>
             </div>
         </div>
         <div class="header-right">
             <div class="vertical">
-                <div class="menu_button">
-                    <i class="fa fa-align-justify"></i>
-                    Menu
-                </div>
-
+                {{^post}}
+                    <div class="menu_button">
+                        <i class="fa fa-align-justify"></i>
+                        Menu
+                    </div>
+                {{/post}}
+                {{#post}}
+                    <a href='/' >
+                        <i class="fa fa-home" ></i>
+                        <span style='font-size:14Pt'>
+                            Home
+                        </span>
+                    </a>
+                {{/post}}
                 <a href='/purchase-your-copy' >
                     <i class="fa fa-book" ></i>
                     <span style='font-size:14Pt'>
