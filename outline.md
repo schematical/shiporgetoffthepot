@@ -1,0 +1,75 @@
+##Phases:
+###Hackathon:
+####Build(Develop)
+[Endgame](./s1-build/p1-hackathon/s1.endgame.md) - D1
+
+[Initial Infrastructure](./s1-build/p1-hackathon/s1.initial_infrastructure.md)
+
+[Learning to Code](,/s1-build/p1-hackathon/s1.learning_to_code.md)
+
+[Version Control 1](./s1-build/p1-hackathon/s1.version_control.md)
+
+####Launch(Market)
+[Consulting to find your first customers](./p1-hackathon/p1.consulting_to_customers_xx_early_adaptors.md)
+
+####Scale(Manage):
+[Outsourcing](./s3-scale/p1-hackathon/p1.outsourcing.md)
+
+[Crowdwourcing](./s3-scale/p1-hackathon/p1.crowdsourcing.md)
+
+[Partnering](./s3-scale/p1-hackathon/p1.find_a_partner.md)
+
+
+
+
+
+###Startup:
+
+####Build(Develop)
+[Coding for growth](../s1-build/p2-startup/s2.code.md)
+
+[Frameworks and standards](./s1-build/p2-startup/s2.frameworks_standards.md) - Old draft
+
+[IP Assignments](./s1-build/p2-startup/s2.ip_assignments.md)
+
+[Using 3rd party service providors](./s1-build/p2-startup/p2.using_3rd_party_service_providors.md)
+
+[Version Control 2](./s1-build/p2-startup/s2.version_control_s.md)
+
+####Launch(Market)
+[Advisors and leverging early adaptors](./s2-launch/p2-startup/p2.advisors_leverging_early_adaptors.md)
+
+[How to roll out a slow launch](./s2-launch/p2-startup/p2.slow_launch.md)
+
+####Scale(Manage)
+[Turning clients into customers](./s3-scale/p2-startup/p2.clients_into_customers.md)//Maybe move to launch section?
+
+[Business Incubators](./s3-scale/p2-startup/p2.business_incubators.md)
+
+[Early Stage Hiring Guide](./s3-scale/p2-startup/p2.early_stage_hiring_guide.md)
+
+[Wiki Opperations Manual](./s3-scale/p2-startup/p2.wiki_operations.md)
+
+
+[Meetings Suck](./s3-scale/p3-beyond/p3.meetings_suck.md)
+
+###Serious:
+####Build(Develop)
+[Cloud Architeture](./s1-build/p3-established/s3.cloud_architeture.md)
+
+[Infrastructure/Drills](./s1-build/p3-established/s3.infrastructure_drills.md)
+
+####Launch(Market)
+
+[Licencing/Structuring deals](../s2-launch/p3-beyond/p3.licencing.md)
+
+[Public Relations](../s2-launch/p3-beyond/p3.pr.md)
+
+####Scale(Manage)
+[Culture](./s3-scale/p3-beyond/p3.culture.md)
+
+[Interchangable Parts](./s3-scale/p3-beyond/p3.interchangable_parts.md)
+
+[Investors](./s3-scale/p3-beyond/p3.investors.md)
+
+[Leadership](./s3-scale/p3-beyond/p3.leadership.md)

@@ -1,0 +1,31 @@
+
+##What is SOGOTP?
+Do you have an idea? A product, a service, a gadget, an app? It doesnt matter how great your idea is if it doesn't ship. No launch parties are held for products that didn't ship. No one get interviewed on the evening news for an idea that never sees the light of day. No one is going to make a movie like Jobs or the Social Network about a company that doesnt contuinally ship a quality product or service. 
+
+That is why you need to SHIP OR GET OFF THE POT!!! Stop talking about your idea and get it to market. How do you take a simple idea, prototype it, debug it and get it built? That is what SOGOTP is about.
+
+SOGOTP goes beyond that. Getting your idea built is not enough. If you build it they will not come to you with money in hand.  Launching your product into the right market is both an art and a science. You need to go out there and sell and market the hell out of your idea otherwise no orders will be placed and nothing will get **shipped**.
+
+Lets say you build your product, sell and market it until you have 1000 orders a week, how do you build a comapany that can scale up and fill that demand. 1000 orders a week is a lot for you to ship on your own. Even a small team may have problems unless properly managed.
+
+Finally like every product in the market it has a life cycle, other products will enter the market, and eventually the shiney new product you shipped last year will lose its edge. How do you build an team that in continually innovatting as it scales up. 
+
+
+
+##Who I am:
+I have taken more bumps and bruises that I can count in the process of building, launching, and scaling these amazing companies. Large established and early stage high growth companies both pay me to help them dodge these painful bumps and bruises along the way. 
+
+
+##What SOGOTP covers:
+I break this book into 3 main sections: Build, Launch, and Scale.
+
+###Build:
+My primary expirence is in setting up large scale cloud based Software/Platform as a Service businesses. This covers everything from mobile apps to blogs; games to voter registration. This even includes image recognition, radio signal trilateration and genetic learning algorythem AI. The Build section covers the methods I use to get the product built both from a technical and non technical stand point.
+
+###Launch:
+Once a product is built you need to get up off your ass and market the hell out of it. The launch section covers my tricks for finding early adaptors by creating a consulting service that you can use to build a product. It also has all of my PR hacks(Google "Matt Lea Wallstreet Journal" or "TC Distrup 2012 hackathon winners").
+
+###Scale:
+Finally once you have a functional product that is selling how do you hire a team of innovators that will work together, learn from each other and scale up to handel the demand.
+
+

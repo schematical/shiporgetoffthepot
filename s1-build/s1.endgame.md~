@@ -1,0 +1,27 @@
+I'd like to kick off my first section on code with one simple sentiment:
+
+**The end product is what is important**, exspecially at this early stage. Don't get too wrapped up in the means. The quicker you get your MVP or prototype launched the quicker you can find out what you need to fix to make it work. Spending a ton of time building a really comprehensive server structure before you have customer number one is a sure way to burn cash and decrese your chances of success.
+
+Later when we get to the scaling phase when we know we have a valid product and it is selling it will be time to put some more thought into this. For now use the following resources to ship your a  prototype version of your idea out to the people.
+
+
+
+##Resources:
+
+People come to me all the time with ideas for an "App". For example a friend of mine had an idea for a wine app, another for a language learning app niched at learning single words. "I need an App, how much would it cost" they always ask. Even my consulting clients try and jump the gun and pull the trigger on building an app way before one is ever needed. 
+
+Building a mobile app is an expesive process, though the cost of bulding the app is dropping, the cost of learning what your customers actually want is still an expensive one. It is expensive no only in dollars but in your time analysing the data then defining the new scope of what the next version of your app will do. 
+
+_Not to mention the painful process of trying to push an app through Apple App Store typically minimum 2 weeks to get approved and on the market for every little update._
+
+This is why I suggest that those of you that feel you "need an app" right away start by creating a simple cheap blog. Instead of having an app that lists wine create a blog post for each wine you want to feature. Use a mobile optimized theme. People can come to your site and search for wines the same as if they had an app on their phone and you can do it for far cheaper than building an app.
+
+
+###ghost.org:
+Ghost is a simple slimed down blogging platform that uses [markdown](..), a simple syntax language anyone can learn in a couple of minutes. Ghost is what I use for the [shiporgetoffthepot.com](http://shiporgetoffthepot.com) website and markdown is what I used to write this book.
+
+###wordpress.com:
+Wordpress is the defacto standard at the moment for blogging, its more comprehensive than ghost but much much more complex. 
+
+###Wix.com:
+Wix is a nice free website creation tool. It looks profesional, but also has many website formats beyond just a blog. My friend Grover Donlon created (worldvocab.com)[http://www.worldvocab.com/]

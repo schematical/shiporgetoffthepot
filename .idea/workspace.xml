@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c907ebeb-056e-4420-a168-f20a0a60564f" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-config-sample.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ghost/post.hbs" afterPath="$PROJECT_DIR$/ghost/post.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shiporgetoffthepot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +81,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="764" />
+    <option name="y" value="-4" />
     <option name="width" value="1301" />
     <option name="height" value="772" />
   </component>
@@ -206,7 +204,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="764" width="1301" height="772" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />

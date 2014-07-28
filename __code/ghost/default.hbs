@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{! Document Settings }}
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    {{! Page Meta }}
+    <title>{{meta_title}}</title>
+    <meta name="description" content="{{meta_description}}" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.77, user-scalable=no" />
+
+    {{! Styles'n'Scripts }}
+    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
+    <link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
+
+    {{! Fonts }}
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>    
+
+    {{! Ghost outputs important style and meta data with this tag }}
+    {{ghost_head}}
+
+    <style>
+        .header-right a{
+            color: #aaaaaa;
+            font-size: 26px;
+            margin-left:20Px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body class="{{body_class}}">
+
+    {{#if @blog.cover}}
+    <div style="position:fixed; top:0Px; left:0px; height:0; width:0;">
+        <img crossorigin="anonymous" id="site-bg-image" alt="background" src="{{@blog.cover}}">
+    </div>
+    <div id="ccontainer" data-bg="{{#if @blog.cover}}{{@blog.cover}}{{/if}}">
+        <div id="cholder">
+            <canvas id="canvas"></canvas>
+        </div>
+        <div id="choverbg"></div>
+    </div>
+    {{/if}}
+
+    {{! Menu Navigation }}
+    <div class="menu active">
+        {{#post}}
+              <h4 class="menu-title table-of-contents">Popular Posts:</h4>
+              <ul class="clearfix">
+                  <li>
+                        <h3>
+                            <a href="/yes-i-am-a-hacker-but-what-does-that-mean/">
+                                I am sick of the media saying "Hacker" when they mean "Black Hat"
+                            </a>
+                        </h3>
+                        <div class="post-meta-date"></div>
+                  </li>
+              </ul>
+
+
+
+           
+
+
+        {{/post}}
+        {{^post}}
+        <h4 class="menu-title table-of-contents">Table of Contents</h4>
+        <ul class="clearfix">    
+            {{#foreach posts}}
+            <li>
+                <h3>
+                    <a href="{{url}}">{{{title}}}</a>
+                </h3>
+                <div class="post-meta-date">{{{date}}}</div>
+            </li>
+            {{/foreach}}
+        </ul>
+        {{/post}}
+         <!-- Begin MailChimp Signup Form -->
+            <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+            <div id="mc_embed_signup" style='margin-top:50Px;'>
+                <form action="http://schematical.us6.list-manage1.com/subscribe/post?u=3565b8df39d26f84645b27784&amp;id=3385cf3f31" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <label for="mce-EMAIL">Subscribe to our mailing list</label>
+                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_3565b8df39d26f84645b27784_3385cf3f31" value=""></div>
+                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </form>
+            </div>
+            <!--End mc_embed_signup-->
+    </div>
+
+    {{! The fixed featured header on the homepage }}
+    <header id="site-head" style='background-color: rgba(0, 0, 0, 0.8);'>
+        <div class="header-left">
+            <div class="vertical">
+                <a style=' text-decoration: none;' href='/?ref={{#post }}{{ url }}{{/post}}{{^post}}home{{/post}}'>
+                    <h1 style='color:white; margin-top: 5Px;'>
+                        {{@blog.title}}
+                    </h1>
+                    <h5 style='margin-top:-24Px; margin-left:40Px; margin-bottom:0Px'>
+                        {{@blog.description}}
+                    </h5>
+                </a>
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="vertical">
+                {{^post}}
+                    <div class="menu_button">
+                        <i class="fa fa-align-justify"></i>
+                        Menu
+                    </div>
+                {{/post}}
+                {{#post}}
+                    <a href='/' >
+                        <i class="fa fa-home" ></i>
+                        <span style='font-size:14Pt'>
+                            Home
+                        </span>
+                    </a>
+                {{/post}}
+                <a href='/purchase-your-copy' >
+                    <i class="fa fa-book" ></i>
+                    <span style='font-size:14Pt'>
+                        The Book
+                    </span>
+                </a>
+
+
+                <div style='float:right;'>
+                     <a class="fa  fa-envelope" href=" http://eepurl.com/taA75">
+                        <span class="hidden">Emails</span>
+                    </a>
+                     <a class="fa fa-twitter" href="https://twitter.com/mleaconsulting">
+                        <span class="hidden">Twitter</span>
+                    </a>
+                    <a class="fa fa-facebook" href="https://www.facebook.com/mattleaconsulting">
+                        <span class="hidden">Facebook</span>
+                    </a>
+                    <a class="fa fa-github" href="https://github.com/schematical">
+                        <span class="hidden">Github</span>
+                    </a>
+                </div>
+
+
+            </div>
+
+        </div>
+    </header>
+
+    {{#if @blog.logo}}
+        <a id="mobile-logo" href="{{@blog.url}}">
+            <img src="{{@blog.logo}}" alt="Blog Logo" />
+        </a>
+   {{/if}}
+
+    {{! Everything else gets inserted here }}
+    {{{body}}}
+    <div class="clear"></div>
+    <div class="jqres"></div>
+    {{! Ghost outputs important scripts and data with this tag }}
+    {{ghost_foot}}
+
+    {{! The main JavaScript file for RAIN }}
+    <!--
+    -->
+    <script type="text/javascript" src="/assets/js/rainyday.js"></script>
+    <script type="text/javascript" src="/assets/js/init_rainyday.js"></script>
+    <!-- -->
+
+    <!--
+    <script type="text/javascript" src="/assets/js/init_music.js"></script>
+    -->
+    <!-- -->
+    <script type="text/javascript" src="/assets/js/index.js"></script>
+    <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1061.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    </script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-25112886-14', 'shiporgetoffthepot.com');
+      ga('send', 'pageview');
+
+    </script>
+
+</body>
+</html>
