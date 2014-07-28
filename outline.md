@@ -1,7 +1,9 @@
 ##Phases:
 ###Hackathon:
 ####Build(Develop)
-[Intro](./s1-build/p1-hackathon/s1.intro.md) - D1
+[Intro](./s1-build/p1-hackathon/s1.intro.md)
+
+[Endgame](./s1-build/p1-hackathon/s1.endgame.md) - D1
 
 [Learning to Code](./s1-build/p1-hackathon/s1.learning_to_code.md)
 

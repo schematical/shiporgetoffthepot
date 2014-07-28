@@ -42,6 +42,11 @@ This is the stage after you have made your first handfull of sales and its time 
 This is everything I know about running your startup once it has become larger and more established. Dealing with company culture, investors, and a larger workfoce. 
 
 ##Ready to Ship or ...?
+Hopefully my expirences, the expirences of those I use as exampels and the expirences of those who chose to contribute to SOGOTP will be helpful to you as you get ready to ship your product.
 
 
+
+-------------------------**NOTES**
+
+//TODO: Insert Product v scalable service definitions
 

@@ -17,6 +17,8 @@ For now the chances are better than not that you will stumble upon areas that ar
 ####I play to my strengths:
 I use the tools I am good at using. For example if you are reading this you are most likely checking it out via [Github](http://github.com) a programming tool. Not typically how people use to publish or gather feedback but it works for me. I am a [hacker](http://shiporgetoffthepot.com/yes-i-am-a-hacker-but-what-does-that-mean/?ref=sogotp), why fight it.
 
+Also I use the old programming method of preffisiting comments with '//'. Feel free to ignore these.
+
 ####I wouldn't call myself an 'expert'...yet:
 If you don't know me(or even if you do) you might be asking the question: _Why are you writing a book on a topic you are not an expert on?_ 
 
