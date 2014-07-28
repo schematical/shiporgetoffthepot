@@ -65,7 +65,7 @@ This is the process each customer will go through to purchas what you are sellin
 
 
 
-##The Hackathon Stage for intrepinures:
+##The Hackathon Stage for Intrepinures:
 Intrepinures have it a little different then the run of the mill entrepinures. Intrepinures typically are trying to get an idea approved by the higher ups and wouldn't want to get caught spending company time working on an idea that has not been approved yet. This quickly becomes a chicken or the egg scenerio: If I don't work on the idea then I wont get approvial to work on the idea. This leaves the intrepinure asking "Should I wait for permission?". I am the type of guy to ask forgivness, not permission but you should use your best judgment. Ask your self:
 
 * How much resources and time can you dedidcate to your idea before it starts noticably taking away from your other responsibilities?
@@ -76,7 +76,7 @@ Use your head but personally I would rather not work for a company that punhises
 
 
 ##Lets start building:
-//INsert conclusion or remove this step
+//TODO: INsert conclusion or remove this step
 
 
 
