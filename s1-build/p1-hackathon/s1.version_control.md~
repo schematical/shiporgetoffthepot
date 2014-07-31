@@ -3,8 +3,6 @@
 ##Use Version Control or Die:
 For those of you that are vetrained programers you are probbally nodding along in agreement while those of you that have never writen a line of code are probablly scratching your heads and asking "what is version control"? Version control is like **Google Docs for your code**. It keeps track of everyline of code that is written, by whome and when. It even tracks a pretty little message with the code.
 
-###What your probablly doing:
-
 ###Worst case scenerios:
 I am not trying to scare you but you need to know how dire the consiquences of not using version control can be. Here are a couple of awful scenerios that can kill your venture dead.
 
