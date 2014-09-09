@@ -3,7 +3,10 @@
 ##Use Version Control or Die:
 For those of you that are vetrained programers you are probbally nodding along in agreement while those of you that have never writen a line of code are probablly scratching your heads and asking "what is version control"? Version control is like **Google Docs for your code**. It keeps track of everyline of code that is written, by whome and when. It even tracks a pretty little message with the code.
 
-###Worst case scenerios:
+###No version control:
+Most of the time non-technical euntripinures don't know enough to get a copy of their code and are just happy with a running website or functining app in the app store. If you are lucky your programmer has given you a disk or a zip file or an ftp login to access your code. This still doesnt really tell you who made changes and to what part of the app or when.
+
+###What can happen:
 I am not trying to scare you but you need to know how dire the consiquences of not using version control can be. Here are a couple of awful scenerios that can kill your venture dead.
 
 ####Programmer Turnover:
@@ -17,17 +20,76 @@ If you work with multiple programmers in succession or at the same time you migh
 ####Malicious Code:
 This is your worst nightmare. Imagine a young frusterated programmer decides you are not paying them enough and decides to put in a couple of malicious lines of code in your app that will email him every credit card number that your customers put in... if you are not using version control then you have no record of who may have added the malicious code.
 
+
 ###How version control works:
+There are many different types of version control. Some of the major languages even have their own forms of version control. The basic concept is that a programmer works on a specific part of your application writing a hand full of lines of code. Eventually when the programmer wants to add the new functionality to the man app they do what is called a 'check in' or 'commit'. The commit contains the following information.
+
+* A snap shot of all of the code
+* Which new lines were added, modified, or deleted
+* Who made the edit
+* The time and date the commit was made
+* Any additional message added by the programmer
+
+Your version control then saves the commit into long term memory. This long term memory is often refered to as a 'repo' or 'repository'. This creates a long term time line view of your app as it evolves and new versions are written and released. This is like a warm blanket of security for you.
+
+
+###Who should provide the Version Contorl Service:
+Depending on who is doing your programming it may differ who should be responsible for providing the version control service.
+
+####Employees and Independent Contractors:
+If you have programmers as employees or independent contractors one of the first things you should do is sign up for a version control service and require them to use it. 
+
+####3rd Part Software Development Orginizations:
+This is a sticky subject. Depending on how the contract is structured they may not want to release the source code until you pay them to ensure you actually pay. They will need their own version control service in order to do this.
+
+####3rd Party Org - 100% up front with 100% money back guerentee.
+They might have you pay upfront and offer you a 100% money back guerentee if you do not like their service but in order to get the source code you must concent that their deliverable is good enough that you wave your right to exercise the 100% money back policy. If this is the case then it is not unlikely that they will have their own version control service setup. 
+
+####3rd Party Org - Hourly or Upfront:
+If it is all hourly or you pay up front and they offer no guerentee then I would recomend that you require them to use a version control service you control.
+
+If an 3rd party software development orginization does not have a version control service in place then I would not even consider contracting with them. It is a red flag for amatures.
+
+###Project Managment:
+Here are several other areas where version control comes into play when thinking of the big picture.
+
+####Employee Manual:
+Once you get bigenough(not at the hackathon stage) you are going to want to put in your employee manual or wiki that they are required to commit all code to the version control repository before it can go live and perhaps at which intervals. Some even specify what message they need to add to each commit and its format. If you have a lead developer I would have your lead developer draft a section on this if you can that is required reading for each code base.
+
+####Contracts:
+In our examples above make sure you specify in the contract not only a deliverable that includes that the programmer puts the code on the version control service of your liking but also the frequenct of commits and detail of commit messages. Be sure to state that **everything that goes on the live site or makes it into the final version of the app goes through version control**. I would even go as far as to say that every individual programmer on their end have their own account to avoid the possibility of Company X having 3 programmers all use the same login and then no internal accontability on their end.
+
+####Deadlines:
+You can use the commits to hold your programmers accountable for hitting deadlines. For example if it is in your contract that a feature needs to go live by January 1st but the code doenst get commited untill Febuary 15th then it should be easy to prove that the programmer you contracted is in violation of the contract. You then can chose what to do from there.
+
+####Project Managment Software:
+A lot of modern project managament software integrates directly with version control software. When you create a task in your project managment software you could easily have the developer put a link to the commit that included the functionality related to the task as a comment so that it is easily accessable in case anyone had questions on the task.
 
 
 ###Services:
+So how to I get my own version control service? You could download one of the major opensource softwares and install it on a server you control which I don't recoment. You could sign up for one of the following services that host the software for you. This I strongly recomend as it has several advantages.
+
+* They have a great easy to use interface for non-techies to view and manage their projects history
+* They handel hosting, updates and security
+* Often times these service providors have additinal functionality that comes in handy
+* They are the industury standard so any good programmer will know how to use them
+* They have free tiers you can use to get comphortable with
+* (Bonus)Depending on your stratigy there are a lot of good ways to use these tools to market your product
+
 
 ####Github:
+Github is the industury standard. It houses a huge amount of the industurys code both open source and non-open source. It is easy to use and leads the industury with its interface. Some are concerned with its price but the tools and social exposure(I'll cover more on this later) cannot be beat. Every repo on Github comes with a free wiki and many other tools that make it my weapon of choice for pretty much all my projects.
+
+Some might say I take it too far as I am using Github to write this very book(SOGOTP).
+
 
 ####Bitbucket:
+Bitbucket is a nice inexpensive alternitive offer to Github. It typically is bundeled with anumber of other Atlassian programmer productivity tools. If your more price sensitive this might be a good alternitive.
 
-####SVN:
+####Other Services:
+There are many other version control services. Though you can store .NET code on Github or Bitbucket, .NET has its own version control software. Java has Maven and some other tools as well. Feel free to look into these but my main tools at the moment are GitHub.
 
-###Its more complex that this:
-but this will eliminate 90% of your headaches.
+###We are far from finished:
+At the start as long as you have that snap shot of your code and that saftey blanket then you should be okay, but version control can quickly become a huge complexity as your app and your team grows. There are more advanced concepts such as branching, merging, etc. For now this should be enough to get you started but as you move forward you will want to sharpen your knowledge of version control.
+
 
