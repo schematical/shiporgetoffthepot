@@ -5,7 +5,7 @@
    * [Introduction](introduction.md)
    * [A fundemental change in thinking](a_fundemental_change_in_thinking.md)
 * [The Team](the_team/README.md)
-   * [What it takes](the_team/what_it_takes.md)
+   * [What is an intrepinure?](the_team/what_it_takes.md)
    * [Small distributed team](the_team/smaller_is_better.md)
    * [Shared vision/Purpose](the_team/15_shared_vision.md)
    * [Building a learning machine](the_team/building_a_learning_machine.md)
