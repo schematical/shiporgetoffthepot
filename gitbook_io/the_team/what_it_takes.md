@@ -23,11 +23,20 @@ When I start talking about NodeJS or Angular and I see their eyes light up like 
 
 If you throw out an idea and they run with it then you know you have the right people. These people are important because they don't know what they can't do. The funny thing is not knowing those limitations they often times do what others think is impossible.
 
+####Negitive Passion vs Positive Passion:
+Passion isn't always positive. Though typically I try and recruit only positive people people can be passionatly negitive. Think of the person that has been on the job for a number of years that hates the way a certain aspect of their job is done. They are always complaining that it could be done better. It might just to tell them now is the time to "Ship or get off the pot". Give them a little time and resources and have them come up with a better way. Those that jump at the oppertunity and deliver are intrepinures. Those that complain and don't... perhaps its time they moved on in their carreer.
+
+
 ##Resourcefullness:
 
-Great intrepinures shouldn't gripe if you give them a tight deadline and 1/3 of the resources they ask for. They
+Great intrepinures shouldn't gripe if you give them a tight deadline and 1/3 of the resources they ask for. They should be greatful if you give them a quetip and a pocket knife and tell them to go build a shoping mall.
+
+Resourcefulness is the ability to get the job done no matter what problems are thown your way. Their solution might not be perfect but it gets the job done. This is where those that require a mannual and paint by numbers instructions come up short.
 
 ##Creativity:
+Everyone might be thinking about a particular idea one way. Creativity allows the intrepinure to see things from a different point of view or many points of view. If everyone in the market is swiming tward the blood red waters it is creativity that allows the intrepinure to look for and find the blue ocean.
+
+_Incase you dont get the above reference it was from [Blue Ocean Strategy ](http://www.amazon.com/Blue-Ocean-Strategy-Uncontested-Competition/dp/1591396190) by W. Chan Kim and Renee Mauborgne. A great book on the topic of finding and penitrating untapped markets_
 
 
 ####Real World Tip:
@@ -37,5 +46,5 @@ This also helps me gauge their creativity and resourcefullness. You would be ama
 
 
 
-
-High level technicians/Architect level
+##Conclustion:
+Not everyone is fit to be an intrepinure. It takes passion, resourcefullness, and creativity. Recruting intrepinrures will help you innovate and keep your business on the cutting edge.

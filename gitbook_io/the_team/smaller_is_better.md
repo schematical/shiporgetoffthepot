@@ -1,4 +1,9 @@
-##Benifits of small teams(new title you get the idea)
+##It takes a team:
+It is rare that one person can truely be effective in delivering change.
+
+
+
+###Benifits of small teams(new title you get the idea)
 
 //guerilla war fare
 
