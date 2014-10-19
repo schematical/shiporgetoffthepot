@@ -9,3 +9,10 @@ I also intend to throw in a little bit on how to build technology that makes bui
 
 #Special Thanks
 To my mother who put up with all of the crap that comes with parenting a future euntrepinure that questions authority and the satus que ever day of their lifes. And always supporting me no matter how crazy my ventures seemed.
+
+//TODO: Thank Yvonne Green, J Orkowski, and Greg Frew
+
+//TODO: Thank Mary Luenburg, Henery Venzant, and all my montasori
+
+
+//TODO: Thank all of the various authors that helped me to further my own educationschool teachers
