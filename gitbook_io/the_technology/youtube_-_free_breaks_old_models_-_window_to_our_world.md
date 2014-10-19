@@ -1,35 +1,26 @@
+I often find the larger more established companies I talk to have difficulty struggeling with the concept of how they could benifit from offering something for free. Lets examin some case studies on how changing supply and demand is creating amazing oppertunities to play around with free products and services.
 
-
-
-
-
-
-###2.3. Youtube - Free breaks old models
+###Youtube - Free video storage:
 When the world was charging by the Megabyte for storage Youtube decided to go a different route. Seeing [Moore's Law](http://en.wikipedia.org/wiki/Moore's_law) in action and realizing that available memory was becomeing more abundant, not scarce, they designed a business model that gave away their storage space for free. By allowing users to release their videos for free they created a network that became the standard for video sharing. Once they had this they could control which content was featured and promoted and this they could control. They created their own demand by drawing in users by giving away something for free that no one else was.
 
 
-//Perhaps talk about perks and supply and demandhere
-//People feel better when they control the hours they work
+###Github - Charging for formally free service:
+Github did the oposite, they took a free package of software that people were already using and started charging to host it for them. It may sound backwards but it is rather brilliant. Take something users are already comphortable using then add more value to it like an easy to use interface and one click setup not to mention many other value adds they cram in for their reasonable.
+
+They also had a brilliant growth stratigy by offering the service for free if your project is opensource. This means if you are giving something away for free, which draws people to thier site, then they give you the storage space for free.
 
 
-Talk about how github did the oposite and started to charge for a service that was formally free:
 
-_Taking a free software and charing for it.
-Opensource usages,
-If all your opensource libraries are on this service you are somewhat vested in it.
-It only make sence when you want to do some work you don't want public you will opt in for a small fee to use their private services.
-_
 
-###2.4. Github:
-Taking a free software and charing for it.
-Opensource usages,
-If all your opensource libraries are on this service you are somewhat vested in it.
-It only make sence when you want to do some work you don't want public you will opt in for a small fee to use their private services.
-//Not to devalue the upsell -  I coach at a gymnatics camp that rocks the upsell but upsell is variable, subscription based reviune is like a warm blanket
 
 
 //Focus on the vast array of services in addition to the base package and that they break down into small distributed teams to relase these services
 
-//How Github Uses Github to Build Github and the atonomy they give their teams
+On a side note there is an amazing talk called [How Github Uses Github to Build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github/) on how they give their teams atonomy and how it is paying out. Warning it gets kind of technical.
+
 
 ###Shareing Economy:
+//Idk this might not fit so well
+
+
+###Big data play:

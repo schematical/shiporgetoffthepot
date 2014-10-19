@@ -7,7 +7,7 @@ Bakers, Gymnastics Gym owners and summer camps directors will most likly not fin
 If you actually like my writing and feel like you got shafted because this chaptor is irrellevant then send me an email and I will try and send you some specialized content that actually does apply to you.
 
 ##Who this is for:
-Hackers, intrepinures, anyone looking to build a tech product that takes on a life of its own.
+Hackers, intrepinures, anyone looking to build a tech product that takes on a life of its own. This is for anyone trying to build an innovation platform:
 
 
 ##Will be outdated the quickest:
