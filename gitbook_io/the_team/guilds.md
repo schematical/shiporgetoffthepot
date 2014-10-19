@@ -25,7 +25,7 @@ This type of atonomy allows for the amazing cultural, technical advances we have
 
 //TODO: Make that make sense
 ####How does this actually apply to the real world:
-You probablly though I was going to go all Game of Throwns but I do have a point. It is not uncommon in modern orginizations of a certain size to see instructions handed down from the top in an older waterfall fashion.
+You probablly thought I was going to go all Game of Throwns but I do have a point. It is not uncommon in modern orginizations of a certain size to see instructions handed down from the top in an older waterfall fashion.
 
 Each dicipline inside of your orginization is like its own guild.
 
