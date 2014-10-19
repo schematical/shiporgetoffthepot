@@ -63,7 +63,7 @@ I typically pay my apprentests something directly related to how much value the 
 
 One scenerio where you do have to pay is anytime intelectual property is created. This means all coders, designers, and copywriters. They will need to sign an intelectual property agreement that states the intelectual property(code, designs, etc) is owened by you. More on this later on
 
-//TODO: Make sure you write this
+//TODO: Make sure you write this(You deleted it from the end so you need to add more detail here)
 
 ####Teching forces you to take your craft to the next level:
 Finally teaching the skills of my craft has always froced me to think and rethink about every aspect of what I do. Having your mid-high level technicians take the time to carfully review their own processes and habbits will allow them to weed out inneffecenties and improve their own performances

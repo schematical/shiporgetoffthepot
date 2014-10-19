@@ -81,5 +81,7 @@ Life or death situations
 
 //Super High Level Technicians
 
+##//Something about me not being an idealist and wroking in the treaches of he real world
+
 
 

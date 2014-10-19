@@ -11,4 +11,6 @@ What is your cause? Is your company only here to make money? That vision works f
 
 //TODO: insert my story 100xglobal Build a community
 
+//TODO: Maybe insert  the healthy use of internal competiton as internal motivation - not the to be used as the primary form of motivation
+
 

@@ -89,4 +89,6 @@ If the project fails weather it is market conditions, bad decisions or act of go
 ##Conclusion:
 If you want to innovate you need to be able to change direction in an instant. Maybe not your whole orginization but definitly those you task with innovating need to be ready. Small cross dicipline teams are best suited to manuver.
 
+
+
  across your varying teams.
