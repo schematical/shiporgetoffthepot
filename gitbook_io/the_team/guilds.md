@@ -81,12 +81,14 @@ Depening on the size of your orginization your Directors would most likely spend
 ##Real world tip: Fire Drill
 One of the down sides of having small teams is a lack of redundancy. What happens if someone "Gets hit by a bus"? This can mean a couple of things: leaves for anther job; gets mad and quits; or litterally death or dismemberment. It will happen at some point. How can you minimize the risks involved in not having this type of redundancy.
 
-Those above mentioned standards and education oppertunities will help you combat this by ensuring developers from
+Those above mentioned standards and education oppertunities will help you combat this by ensuring your technicians all are on the same page generally speaking. This only protects you so much. If you want to be ready for potentially devistating change then you must drill for it.
 
 ###Fire Drills:
-I recomend instead of just waiting around to see what devistation unfolds when a team member abruplty is taken out of the equasion is to drill for it. Run what I call fire drills. With out warning walk through your work space one monday and start grabing one or two people at random from each team. These people have been 'hit by a bus' and will not be avaible for the rest of the week.
+I recomend instead of just waiting around to see what devistation unfolds when a team member abruplty is taken out of the equasion is to drill for it. Run what I call fire drills. Without warning walk through your work space one monday and start grabing one or two people at random from each team. These people have been 'hit by a bus' and will not be avaible for the rest of the week.
 
-Your team's will need to come together to make up for the lost resources. They will have to share what is left of their workforce. They will have to come up with creative ways to work around the problems you have put in front of them. Remember it is not the strongest, the fastest or the smartest that survive; it is those most adaptable to change. I recomend offering a little bonus to anyteam able to complete their aloted work with this interuption.
+Your team's will need to come together to make up for the lost resources. They will have to share what is left of their workforce. They will have to come up with creative ways to work around the problems you have put in front of them. Remember it is not the strongest, the fastest or the smartest that survive; it is those most adaptable to change.
+
+Not all teams will be able to keep up and that is okay. You will at least know how bad it will be when a team member drops and they will be forced to think about prepairing for the worst. I recomend offering a little bonus to any team able to complete their aloted work with this interuption.
 
 
 ##Real World Tip 2: Project Managers Guild
@@ -94,6 +96,5 @@ Your team's will need to come together to make up for the lost resources. They w
 Having your project managment systems and tequniques standardized will help you at the top keep a good eye on things. The project manager is your main way of tracking timelines as the various projects move.
 
 
-
-
 ##Conclusion:
+The guild model that has evolved since the castles of old can help your teams grow and thrive even in these modern times.
