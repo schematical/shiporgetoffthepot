@@ -1,8 +1,11 @@
 # Event Driven Architeture
 
 
-###Streaming APIs:
-Twitter -
 
 ####Eventdriven Architeture Callbacks:
 //Foursquare
+
+
+###Streaming APIs:
+Twitter -
+Less used

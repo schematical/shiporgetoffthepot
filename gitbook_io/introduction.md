@@ -27,3 +27,7 @@ I will walk you through how to emplower your workforce so as to turn them into a
 How to start looking at the world with the abundance mindset so you can understand the power of free, and the next generation's sharing mindset.
 
 And finally since I am by trait a Software Architect a little bit on the technology and how to build technology that encourages allowing others to build amazing innovative products and services off of your core technology.
+
+//How to use this book?
+
+
