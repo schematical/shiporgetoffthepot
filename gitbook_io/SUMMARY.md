@@ -25,7 +25,7 @@
    * [Event Driven Architeture](the_technology/event_driven_architeture.md)
    * [URL Structure](the_technology/url_structure.md)
    * [Windows to Another World](the_technology/windows_to_another_world.md)
-   * [Infrastructure Concerns](the_technology/infrastructure_concerns)
+   * [Infrastructure Concerns](the_technology/infrastructure_concerns.md)
    * [App Marketplaces](the_technology/app_marketplaces)
    * [Data Plays(Might not put this in the book)](the_technology/data_playsmight_not_put_this_in_the_book.md)
 * [Conclusion](conclusion/README.md)

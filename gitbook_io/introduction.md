@@ -30,4 +30,6 @@ And finally since I am by trait a Software Architect a little bit on the technol
 
 //How to use this book?
 
+Show you how to actually use Google's famous %20 time
+
 
