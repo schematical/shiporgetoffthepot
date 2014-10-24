@@ -90,6 +90,7 @@ Your team's will need to come together to make up for the lost resources. They w
 
 Not all teams will be able to keep up and that is okay. You will at least know how bad it will be when a team member drops and they will be forced to think about prepairing for the worst. I recomend offering a little bonus to any team able to complete their aloted work with this interuption.
 
+//TODO: Somewhere in the above mentioned section warn of developers 'coding them selves into a corner'
 
 ##Real World Tip 2: Project Managers Guild
 //TODO: Might remove this
