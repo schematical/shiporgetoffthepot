@@ -39,6 +39,23 @@ JSON is nice because it is really simple and in is easy to parse. Obviously it w
 
 Recently they have even been making Databases that store your data in this format instead of the old fashion spreadsheet format with rows.
 
+###Seeing it in action:
+Here are a couple of queries on various apis you can run just by opening them up in your browser.
+
+####A listing of 100X Members:
+[http://api.100xglobal.com/members](http://api.100xglobal.com/members)
+
+####Githubs API Root:
+[https://api.github.com/](https://api.github.com/)
+
+####Mark Zuckerburgs Facebook Profile:
+[http://graph.facebook.com/4](http://graph.facebook.com/4)
+
+###Tip:
+Sometimes the data comes out unformatted and all squished together. Use a JSON parser to foramt it like the one found at [http://json.parser.online.fr/](http://json.parser.online.fr/). You can just copy and paste in the result from the above query into it.
+
+
+
 ##Conclusion?
 
 
