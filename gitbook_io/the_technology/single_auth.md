@@ -2,7 +2,7 @@
 How google, Facebook and Twitter(and a huge amount of other people) are using Single Sign On to allow their data to be shared intellegently across the web.
 
 ###Google:
-When Google started out they were basically a search engine. People could come and search
+Earlier we talked about how
 
 
 ##Scope/Permissions:
