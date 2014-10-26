@@ -16,10 +16,12 @@ Each new service they build doesn't have to reinvent the wheel with authenticati
 
 Google can track user behavior across a wide variety of servces. If you recive emails on a certain topic, browse Google maps for a specific location, and search for a certain phrase then they can perdict that serving you an add related to the 3 variables will most likely get you to click on it earning them their fee from advertisors.
 
-Google can even track you when you are not on their web pages or services. More on the insane amount of data Google has on you in the chaptor on Data Plays//TODO: Maybe move this to a bonus chaptor?
+Google can even track you when you are not on their web pages or services. More on the insane amount of data Google has on you in the chaptor on Data Plays(//TODO: Maybe move Data Plays to a bonus chaptor)?
 
 ##Logging onto 3rd party stuff:
+Google goes beyond allowing you to sign on to their services. They also allow 3rd party services to use their Signle Sign On service to track user identities and access user information from their various services.
 
+Facebook, Twitter, Github and many others are doing the same. This helps strongly encourage those 3rd parties //Instagram?
 
 
 ##Why I advocate SSO for your innovation platfrom:

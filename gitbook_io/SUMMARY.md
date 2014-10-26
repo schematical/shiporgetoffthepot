@@ -22,7 +22,7 @@
    * [Innovation Platform/Services](the_technology/services.md)
    * [API Basics](the_technology/the_basics.md)
    * [URL Structure](the_technology/url_structure.md)
-   * [Single Auth](the_technology/single_auth.md)
+   * [Single Sign On](the_technology/single_auth.md)
    * [Event Driven Architeture](the_technology/event_driven_architeture.md)
    * [Windows to Another World](the_technology/windows_to_another_world.md)
    * [Lab/20% Time](the_technology/lab20_time.md)
