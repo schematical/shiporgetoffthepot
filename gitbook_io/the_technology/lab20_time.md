@@ -1,5 +1,16 @@
-# Lab/20% Time
+#20% Time/The Lab:
+By now you have to have heard of Google's 20% time. 
 
+
+How to create a simple process for your team to launch their innovations and get feedback.
+
+How to ensure that your core product's image is not tarnished by users not understanding which features are new raw and potentially buggy innovations.
+
+How to ensure that raw innovations do not affect your core in any for
+
+
+
+My answers to all the above problems is to build a lab.
 
 ##Build A Lab:
 A 'lab' is a safe enviroment to showcase your innovations and let early adaptors test them. This also helps draw a thick line between the early adaptors and those on the other side of the Chasim that are more risk adverse.
