@@ -34,16 +34,62 @@ Here is an example of how we are setting things up for 100x global:
 * Someday in my or one of my teams 20% time I hope we will build out an events managment system that will most likely live at `events.100xglobal.com`
 
 
+
+
+##Multiple enviroments:
+There is a delicate art to building a quality tech product. As you develope your product it goes through an interesting life cycle. Developer don't just build tech products on their lap tops then push a button and its live... some do but typically there is some type of quality assurance process.
+
+This is where the concept of an enviroment comes in to play. An enviroment is a running copy of your product. Each running on their own virtual server with their own databases. The purpos of this is to insulate the endresult from all of the changes that could cause bugs. Change is good, it means new features, but it needs to be controlled.
+
+Also note not all development lifecycles are the same. Big dev shops have many layers. This adds to much complexity for me. I like to keep it simple; A, B, C, Done.
+
+Here is an example lifecycle similar to the one I use to build tech products:
+
+###Local/Dev Enviroment:
+The developers need their own copy to work on and build new technology.
+
+###Alpha Enviroment:
+Since developers are almost constantly changing the app breaking things as they build and fixing them you will need a seperate running copy of the app for your internal testers and decision makers to preview and test in. The alpha enviroment is raw filled with the newest features the developers just hammered out.
+
+
+
+###Beta Enviroment:
+Once the app has gone through througal internal QA then your team will want to deploy the solidified version of the code to a beta enviroment. The beta enviorment is where your early adaptors can go to see the latest features that you are going to release long before everyone else. This helps you get customer feedback at an early stage and polish out any remaining bugs.
+
+
+If your curious what a beta enviroment would look like Facebook keeps a running beta up for their early adaptors and 3rd party developers at [https://beta.facebook.com/](https://beta.facebook.com/).
+
+###Production Enviroment:
+Once you are absolutly sure that you have a working version of your product you deploy it to the production enviroment. The production enviroment is the real running version of your site that the majority of your customers will interact with on a daily basis.
+
+###Other Types of Enviroments:
+Staging enviroments are common. This is where developers test their changes agains the existing production enviroment to see if there are going to be any complications when they go to deploy their code. Often times a change can break something.
+
+
+##An enviroment for each service:
+I have talked a lot of the advantages of breaking down your product into services. Part of the advantage of this is that each service can move at its own pace and not be slowed down by the core. This wouldn't be true if you had to redeploy all services at the same time.
+
+This means I suggest keeping seperate alpha, beta, and production enviroments for each service. This may sound like a hastle but since you have broken your workforce down into cross functional teams the effort of maintaining these enviroments is distributed equally among your teams making this much less exhausting.
+
+
+##Conclusion:
+Using a simple development lifecycle that allows you to crowdsource testing from your early adaptors will help you create a quality end product.
+
+
+
+
+
+
+
+_NOTE: These are just notes on bouns content_
+##Technical Tip:
+//Bouns stuff or blog post...
+Keep this in mind
 ###Load balencing
 
 ####Databases:
 
 ####CDN- S3:
-
-
-###Multiple enviroments:
-
-
 
 
 
