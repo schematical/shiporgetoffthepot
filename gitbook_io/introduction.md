@@ -28,7 +28,9 @@ How to start looking at the world with the abundance mindset so you can understa
 And finally since I am by trait a Software Architect I will share real world stratigies on how to build technology that encourages your workforce as well as 3rd parties to build amazing innovative products and services off of your core technology.
 
 ##What is in this book:
-The book is broken into 2 parts:
+The book is broken into 3 parts:
+###The Problems:
+
 ###Your Team:
 Here we talk about the most important tool in your innovation arsonal: your people. How large hiarchies evolved over thousands of years to control large orginizations and why it doesn't work in our fast paced changing business world. This section has real world non-technical tips on how to structure your orginization to facilitate creation of new ideas while protecting your exisiting business and brand value.
 
@@ -42,7 +44,7 @@ Tf you are interested in how to get your workforce to innvoate like a startup st
 Or if your more intersted in the technology feel free to jump to the technology section. It is written so that a non-technical person can easily digest and understand so don't skip over it just because you consider yourself a non-techie.
 
 ##Who this book is for:
-This book is writen for those of you incharge of one of these large orginizations. Those of you that can see the inevitable changes coming and are looking to alter course before you business runs in to the perverbial ice burg a head. 
+This book is writen for those of you incharge of one of these large orginizations. Those of you that can see the inevitable changes coming and are looking to alter course before you business runs in to the perverbial ice burg a head.
 
 If you are not the leader of one of these orginizations, perhaps one of those on the frontlines or in the trenches, don't worry. There is still much you can get from this book. Change is coming and the day may come soon when you will be incharge or a portion or all of your orginization . The information in this book will help you structure the team  you lead so that they can exicute and stay a head of the market.
 
