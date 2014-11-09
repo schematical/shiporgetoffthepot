@@ -17,7 +17,7 @@
    * [Taking Teams to a whole new level(invest, not aquire)](the_team/taking_teams_to_a_whole_new_levelinvest,_not_aquire.md)
 * [The Technology](the_technology/the_technology.md)
    * [A brief lession in history](the_technology/a_brief_lession_in_history.md)
-   * [Innovation Platform/Services](the_technology/services.md)
+   * [Building a Platform](the_technology/services.md)
    * [API Basics](the_technology/the_basics.md)
    * [URL Structure](the_technology/url_structure.md)
    * [Single Sign On](the_technology/single_auth.md)
