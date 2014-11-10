@@ -1,31 +1,34 @@
 #Embedding - Windows to Another World:
 Users using your technology while on your site is cool. When your technology starts getting embedded across other peoples websites then you really have something powerful.
 
+###What is Embedding?
+Imagine your a blogger with little technical know how. You want to add comments to your website. You can go to a service like [disqus.com](https://disqus.com) or [Facebook's plugin section](https://developers.facebook.com/docs/plugins/comments/) to get a snippit of HTML you can copy and paste into your blog.
+
+Now when users go to the page they see a nice commenting system served up by the 3rd party platform. The user has a better user expirence due to the additional functionality but no knowladge that the commenting system is not part of the core blog.
+
 ###How embedding services is useful to 3rd parties:
 It allows people with either a lack of development skills or often times just a plain lack of time to quickly and easily place your functionality on to their own web pages and products.
 
-Sometimes its not even a technical thing, building a userbase and a vast amount of content is a daunting tasks. Think of twitter and how they allow you to embed a feed of tweets matching a hash tag or search term.
+Sometimes its not even a technical thing, building a userbase and a vast amount of content is a daunting tasks. Think of twitter and how they allow you to embed a feed of tweets matching a hash tag or search term. See it in action here [https://dev.twitter.com/web/embedded-tweets](https://dev.twitter.com/web/embedded-tweets).
 
 
 ###How it is useful to you:
-The same way it is useful for twitter. While the majority of online marketers are paying 3rd parties to place links to their site via banner ads twitter has thousands of people puttling up their embedable content. Embeddable content that is full on links back to Twitter driving valuable traffic back to their site.
+The same way it is useful for twitter. While the majority of online marketers are paying 3rd parties to place links to their site via banner ads twitter has thousands of people sharing and promoting their embedable content. Embeddable content that contains direct links back to Twitter driving valuable traffic to their site.
 
-This often times works even better thank banner ads because the content being delivered from Twitter has been carifully thought out by the website owner to be the best suited for their audience.
+This often times works even better thank banner ads because the content being placed on the page has been carifully thought out by the website owner. It is in the website owner's best interest to select the content best suited for their audience.
 
 ##Technical Stuff:
 Lets get into the nuts and bolts of it.
 
-###IFrame: Youtube
-Youtube is one of the best examples of iFrames. iFrames are basically web pages inside of web pages. The are small isolated windows to another website. The parent page, owned by the 3rd party, copies one line of code onto their page. This opens up a window to the child page, a web page owned by the platform(you, youtube, or anyother embedable content.
+###iFrame: Youtube
+Youtube is one of the best examples of iFrames. iFrames are basically web pages inside of web pages. The are small isolated windows to another website. The parent page, owned by the 3rd party, has one line of code defining the iframe and its source. When the users browser sees this line it opens up a window to the child page, a web page owned by the platform(you, youtube, or anyother embedable content).
 
 Youtube's Iframe code looks something like this:
 
 ```
 <iframe width="1280" height="720" src="//www.youtube.com/embed/rHr0kNF225Y" frameborder="0" allowfullscreen></iframe>
 ```
-
-//TODO: What the hell was this about ->Storing that much data - Hat tip to Amazon's S3
-
+//TODO: Pick up proof reading here
 
 ###Embedding via JavaScript SDK:
 Embedding via iFrame is simple but you are limited to touching just what is inside of your little window. If you want full access to the page you will need to use something with a little more kick to it.
@@ -81,4 +84,4 @@ A nice byproduct of having your technology embeded in thousands of sites across 
 //TODO: Some how lead into bonus chapter
 
 ##Conclusion:
-Don't fear people steeling your content. Give them the tools to embed your content and reap all of the benifits. 
+Don't fear people steeling your content. Give them the tools to embed your content and reap all of the benifits.

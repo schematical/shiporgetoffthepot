@@ -1,4 +1,4 @@
-#3.1. Single Sign On:
+#Single Sign On:
 Google started off with just a search engine but in order to track who was searching for what then needed to create a service that users would want to log into. One of the original services was GMail but their suite of services quickly grew.
 
 If they have so many services that you can log into with your google account GMail, Google Drive, Google Plus, your Android devices do you let your user create different accounts for each of these services? No, that would be a nightmare.
