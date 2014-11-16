@@ -1,15 +1,20 @@
-# Conclusion
-
-
-###Focus:
-If you don't want to give up control you had better keep your orginization lean and focus. Don't take on to many initiatives.
+# Conclusion:
+There are two things I want you to take away from this book:
 
 ###Trust your people:
-You started an orginization so you didn't have to be the only one doing everything otherwise that is just called consulting. You need to be able to build teams of people you can trust and can act on new ideas with out you holding their hands if you wish to survive in this market.
+You started an organization so you didn't have to be the only one doing everything otherwise that is just called consulting. You need to be able to build teams of people you can trust and can act on new ideas without you holding their hands if you wish to survive in this market.
 
 ###Give them a process to try new things:
-If you do want to take the gamble and see what happens when you put a bunch of passionate creative diciplined people in a room with some of your resources and let them have at it... outof brain cells
+See what happens when you put a bunch of passionate creative disciplined people in a room with some of your resources, a little autonomy, and a specific process for safely launching and testing new ideas. You will find that problems are solving themselves and icebergs are being dodged without you ever even needing to be interrupted. It will never be a perfect system, but at least you won't be the only one solving the problems any more.
 
-//TODO: Use the above mentione examples from the **Team - What it takes** section
+##What is next?
+I hope you learned as much from reading this book as I did writing it. I tried to keep this book short and focused. In order to be truly effective in your quest to build an adaptive innovative business you will need to do a lot more research. Hopefully some of the books and resources I referenced will be as helpful to you as they have been to me. Check out my blog, [http://shiporgetoffthepot.com](http://shiporgetoffthepot.com), for more info as well.
 
-I tried to keep this book short and focused. In order to be truely effective in your quest to build an adaptive innovative business you will need to do a lot more research. Hopefully some of the books and resources I referenced will be as helpful to you as they have been to me. Check out my blog, [http://shiporgetoffthepot.com](http://shiporgetoffthepot.com), for more info as well.
+Best of luck to you in your future endeavours.
+
+//NOTE TO FRIENDS: Let me know what your biggest take aways are. This conclusion looks a little light.
+
+
+
+
+
