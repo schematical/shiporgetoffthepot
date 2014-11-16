@@ -2,52 +2,52 @@
 _In the struggle for survival, the fittest win out at the expense of their rivals because they succeed in adapting themselves best to their environment._
 ~[Charles Darwin](http://www.biographyonline.net/scientists/darwin-quotes.html)
 
+The world moves faster than ever before. Industries are being flipped on their head one by one and companies in those industries are struggling to survive.
 
-Survival in business this day and age where technology changes the market on a daily if not hourly basis is all about being adaptable to change. But how do large companies with thousands of employees and a brand they want to protect innovate and adapt so they can survive?
+The early 2000nds flipped the music industry and took down thousands of brick and mortar music shops. The late 2000nds flipped the entertainment industry and crushed industry juggernaut Blockbuster Video.
 
-The good news is it is possible, and I am here to help you do it.
+The medical industry was just turned on its head by the recent changes in health care coverage. We will soon see which companies will survive and which will die. It is only a matter of time before your industry is subject to this volatility.
 
-##Ideation:
-How do the leaders of these big companies consistently come up with these cutting edge ideas that have such success in the market. The secret is they don't.
+Who will survive? Will it be the large companies? Will their access to resources allow them to winter the the storm or will their massive overhead cause them to starve and perish?
 
-##Validation:
-How do the leaders test these new ideas in the market while keeping tight control over the idea to make sure they are not risking damage to their brand core brand. Again the truth is they don't.
+History has taught us that those most adaptable to change will survive. Is your company ready to pivot or will you be stuck piloting the titanic into an iceberg because you are unable to correct course fast enough?
 
-##Scaling:
-How do they scale these new business models up while fitting them inside the hirarchy of their existing business? The truth is they are not. //TODO: I dont like how this plays out.
+Typically large companies are not equipped to adapt to changes in the market. Why is that?
 
+What kinds of organizations are better suited to survive and thrive in changing environments? During the music industries downfall you saw startups like Napster thrive and eventually make way for services like iTunes.
 
-Those businesses without the culture and the structure to be constantly innovating are doomed to a slow and painful death. They just don't know it yet.
+When the entertainment industry was changing and Blockbuster Video was being crushed underneath its own overhead services like Napster saw an opportunity and jumped on it.
 
-This book is about how any company, large or small, tech or other, can apply the prinicipals that Google, Virgin, and many other have pionieered to their own business and watch their businesses thrive.
+How was Netflix able to execute on that change and Blockbuster unable to? Was it because Blockbuster was large and established? If so then how was Apple able to capitalize on iTunes?
 
-I will walk you through you can empower your workforce so to turn them into a creative innovation machine.
+Just because you are not a startup doesn't mean you can't be adaptable and innovative like one. Google and many other companies are proof of that. But what are the large organizations that survive doing to allow them to constantly stay on the cutting edge of the market?
 
-How to start looking at the world with the abundance mindset so you can understand the power of free, and the next generation's sharing mindset.
+No, I am not going to tell you to buy a foosball table an X-Box and start handing out free Red Bull to your employees so you can be more like a startup. That is all just lipstick on a pig, it takes a lot more than that to survive.
 
-And finally since I am by trait a Software Architect I will share real world stratigies on how to build technology that encourages your workforce as well as 3rd parties to build amazing innovative products and services off of your core technology.
+This book breaks down what the large established companies are doing.  Not just in a highly theoretical ivy league sense, but in a down and dirty men and women in the trenches executing sense.
 
-##What is in this book:
-The book is broken into 3 parts:
-###The Problems:
+##Who am I?
+I am a startup junkie by nature and a software architect by trait.  I didn't grow up on the coasts, I grew up in Wisconsin. Up until recently no one in the midwest even knew what venture capital was. Those of us that didn't want to move to the coasts had to fight tooth and nail to get a foot hold for their startups. But that fight forced us to be resourceful and tenacious.
 
-###Your Team:
-Here we talk about the most important tool in your innovation arsonal: your people. How large hiarchies evolved over thousands of years to control large orginizations and why it doesn't work in our fast paced changing business world. This section has real world non-technical tips on how to structure your orginization to facilitate creation of new ideas while protecting your exisiting business and brand value.
+I am no Mark Zuckerburg. I have crashed and burned a few startups, mainly funded with my own money. Crashing a startup with your own money is a painful thing. Because it is so painful you learn a lot doing it.
 
-###Your Technology:
-This section has real actionable tips that show you how to build an innovation platform. Technology that allow your people to spinn up and test new ideas in a matter of hours. It also show how to allow 3rd parties to build off of your technology making your business more valuable to your customers.
+Eventually as I got older because of my painful education large established companies stated to seek out my help to guide them away from making the same painful mistakes that I made when I was younger. Mistakes that if made on the scale that they are working on would cost millions.
+
+##Who this book is for?
+There are a lot of books on how to start a startup. This is not one of them. This is however on the lessons those in large established companies can learn from the military, the mafia, great craftsmen, and yes even startups.
 
 
-##How to use this book?
-Tf you are interested in how to get your workforce to innvoate like a startup start with the section on Your Team. Technical people should not skip over this chapter though because it does have some phylosophies that can be applied when it comes time to build the tech.
+##What is in this book?
+In the first section we identify the weaknesses in the traditional hierarchical decision making process. Then we examine the ways the military and the mafia have devised tactics diverge from the traditional in order to survive in life or death situations. Tactics that most large business have not implemented because they are rarely in a life or death situation.
 
-Or if your more intersted in the technology feel free to jump to the technology section. It is written so that a non-technical person can easily digest and understand so don't skip over it just because you consider yourself a non-techie.
+In the second section, Your Team, we examine how guerilla warfare can teach you to structure your workforce so that they can operate effectively and make smart battlefield decisions without waiting for the command.
 
-##Who this book is for:
-This book is writen for those of you incharge of one of these large orginizations. Those of you that can see the inevitable changes coming and are looking to alter course before you business runs in to the perverbial ice burg a head.
+We will also learn how to build a scalable workforce by examining the great craftsmen of old. Learning how they used aprintestes to handle their manual tasks so they could focus on the important things allowing them to be much more effective. While simultaneously teaching the future of the kingdoms workforce.
 
-If you are not the leader of one of these orginizations, perhaps one of those on the frontlines or in the trenches, don't worry. There is still much you can get from this book. Change is coming and the day may come soon when you will be incharge or a portion or all of your orginization . The information in this book will help you structure the team  you lead so that they can exicute and stay a head of the market.
+Finally since I am by trait a software architect and focus primarily on SaaS startups I will go into depth on how to structure a tech product so that your workforce is free to take the feedback they get while on the front line with your customer and build innovative new features without risking product quality or your brand's integrity.
+
 
 ##Lets get started:
-The world is already changing, your business is already getting disrupted. No time to waste if your ready lets dig in.
+
+
 
