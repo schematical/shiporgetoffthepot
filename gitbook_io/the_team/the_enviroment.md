@@ -1,4 +1,6 @@
 # The Enviroment
+//Might move this to a blog post:
+
 //Me and Montasori
 
 //Advantiges

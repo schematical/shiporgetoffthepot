@@ -9,10 +9,6 @@ I also have real world tips on how to build technology that makes building and t
 
 
 
-
-
-
-
 #Special Thanks:
 //TODO: Finsih and proof read
 To my mother who put up with all of the crap that comes with parenting a future euntrepinure that questions authority and the satus que ever day of their lifes. And always supporting me no matter how crazy my ventures seemed.

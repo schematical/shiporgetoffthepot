@@ -1,5 +1,4 @@
 # What is an intrepinure:
-//TODO: Insert big focus on 'ask forgivness not permission'
 I am not trying to insult your creativity or ability to innovate, but lets face it your human. You have limitations. Your mental bandwidth is probablly spread thin running your business as it stands today without taking the initiative to build something new and innovative.
 
 Even if you could take on one new endevior with half your mental capacity then your still half focused. What if you have some one managing the business and you are fully focused on innovating a new product or service? Why not hedge your bets? Why trust your workforce  effectivly turing them in to **intrepinures**.

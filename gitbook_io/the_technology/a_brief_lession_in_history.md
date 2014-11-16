@@ -41,7 +41,7 @@ Imagine a workforce of 100 continuously on the same code base, things get messy 
 ####No testing ground for innovations:
 If you use 20% time how do you decide what projects get merged and go live? If you do the 20% time and a developer dreams up a new feature then you have no real way of getting user feedback before it goes live. Other developers can test it but your customers can only see it if the feature gets merged into the live build.
 
- So it is all or nothing. Using an analogy from [Crossing the Chasm by Geoffrey Moore](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) your early adaptors that want to see new features and don't need extream polish have no way of getting their hands on the feature without exposing it to everyone on the other side of the chasim. I mean the customers that are afraid of change and might ditch your product for a more stable one at the first sign of rough edges.
+ So it is all or nothing. Using an analogy from [Crossing the Chasm by Geoffrey Moore](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)(Make sure you read up on this in the **Important Concepts** chapter) your early adaptors that want to see new features and don't need extream polish have no way of getting their hands on the feature without exposing it to everyone on the other side of the chasim. I mean the customers that are afraid of change and might ditch your product for a more stable one at the first sign of rough edges.
 
 This leaves you with 3 options:
 

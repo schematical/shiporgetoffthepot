@@ -29,8 +29,6 @@
    * [App Marketplaces](the_technology/app_marketplaces.md)
    * [Enter NJax](the_technology/enter_njax.md)
 * [Conclusion](conclusion/README.md)
-   * [Focus](conclusion/focus.md)
-   * [Trust your team](conclusion/trust.md)
    * [Afterthought](conclusion/afterthought.md)
 * [(Archive)Stratagies](the_technology/README.md)
    * [Bonus Chapter: Data Plays](the_technology/data_playsmight_not_put_this_in_the_book.md)
